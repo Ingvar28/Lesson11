@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         String path = "Files\\file.txt";
         String path2 = "Files\\file2.txt";
-        String copyFilePath = "Files\\copyFile";
+        String copyFilePath = "Files\\copyFile.txt";
         String catalogPath = "Files";
 
 
